@@ -1,0 +1,13 @@
+#LWP-Cookies-2.0
+Set-Cookie3: 1P_JAR="2021-01-04-08"; path="/"; domain=".google.co.uk"; path_spec; domain_dot; secure; expires="2021-02-03 08:45:54Z"; version=0
+Set-Cookie3: NID="206=lSwq-X7L5ighIyUmmsb0XgUtcQLypEUKqG9bkqoppBc89VhO1HnV3rE_OnOf9S_3de5EVvpjUZv8WbSnRvK6lrgibJfjE2kVjLF1gFH1SKghpt63dPq_S99b9CuCYGEkmIqE9HtSCTjIcMSk3hz1dRvnrONj6delkkQuB9VxFF8"; path="/"; domain=".google.co.uk"; path_spec; domain_dot; expires="2021-07-06 08:45:49Z"; HttpOnly=None; version=0
+Set-Cookie3: CGIC=""; path="/complete/search"; domain=".google.co.uk"; path_spec; domain_dot; expires="2021-07-03 08:45:49Z"; HttpOnly=None; version=0
+Set-Cookie3: CGIC=""; path="/search"; domain=".google.co.uk"; path_spec; domain_dot; expires="2021-07-03 08:45:49Z"; HttpOnly=None; version=0
+Set-Cookie3: 1P_JAR="2021-01-04-08"; path="/"; domain=".google.com"; path_spec; domain_dot; secure; expires="2021-02-03 08:42:19Z"; version=0
+Set-Cookie3: NID="206=vagTXYk7BmJ51zDyOvNk887W5xJXH5bjMYuTc_hqkqEAWG7xYnDHAQ3CnB3ImQ636xKgeP9wYB84qOy7YBg3VDlbwc1A9_Hq5kVFXiwCUamtEkVRTrZv3vbQaIcGh6bNJwFgFXXn_iBkBJS7j8CtdriDDP07QowGdbL6oOYoJfc"; path="/"; domain=".google.com"; path_spec; domain_dot; expires="2021-07-06 08:35:54Z"; HttpOnly=None; version=0
+Set-Cookie3: CGIC=""; path="/complete/search"; domain=".google.com"; path_spec; domain_dot; expires="2021-07-03 08:35:54Z"; HttpOnly=None; version=0
+Set-Cookie3: CGIC=""; path="/search"; domain=".google.com"; path_spec; domain_dot; expires="2021-07-03 08:35:54Z"; HttpOnly=None; version=0
+Set-Cookie3: 1P_JAR="2021-01-04-08"; path="/"; domain=".google.ru"; path_spec; domain_dot; secure; expires="2021-02-03 08:45:13Z"; version=0
+Set-Cookie3: NID="206=BkMV_684qyTYJj8A3gIJ-oHZsyABe4hUUHOu-dhOkVyXmCyI_sban1YE6kdDlCxnK9biAz17yuwVMQ83F9REjIcRz0DKYeOmH0EexzDsbvs-Ej7vPkUkNePlT8-EXC_s8Bjy27x80g3_kTsdhvf_7Lz8o9Cz_m9_B-ErzQoZZ_A"; path="/"; domain=".google.ru"; path_spec; domain_dot; expires="2021-07-06 08:45:05Z"; HttpOnly=None; version=0
+Set-Cookie3: CGIC=""; path="/complete/search"; domain=".google.ru"; path_spec; domain_dot; expires="2021-07-03 08:45:05Z"; HttpOnly=None; version=0
+Set-Cookie3: CGIC=""; path="/search"; domain=".google.ru"; path_spec; domain_dot; expires="2021-07-03 08:45:05Z"; HttpOnly=None; version=0
