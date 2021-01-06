@@ -1,38 +1,36 @@
-## 0x00 FNT
-**ÓæÍø¹¤¾ß¼¯µÚÒ»¸ö¹¤¾ß**
+### 0x00 FNT
+**æ¸”ç½‘å·¥å…·é›†ç¬¬ä¸€ä¸ªå·¥å…·**
 
-## 0x01 Google Hacking
-![](http://10.0.36.99/server/index.php?s=/api/attachment/visitFile/sign/ede8ef7f37048e6ab311dd3275dfc9d1&showdoc=.jpg)
+### 0x01 Google Hacking
+åŸºäºGoogleSearchçš„è°·æ­Œå‘ç°å·¥å…·
 
-»ùÓÚGoogleSearchµÄ¹È¸è·¢ÏÖ¹¤¾ß
 
-## 0x02 ¹¦ÄÜ½éÉÜ
-![](http://10.0.36.99/server/index.php?s=/api/attachment/visitFile/sign/7d7a7f30a1f9bdf9fad5fabb494b0e01&showdoc=.jpg)
+### 0x02 åŠŸèƒ½ä»‹ç»
 
 - file
-	- ¹«¿ªÅûÂ¶µÄÎÄ¼ş
-	- Ä¿Â¼ÁĞ±íÂ©¶´
-	- ±©Â¶µÄÅäÖÃÎÄ¼ş
-	- ±©Â¶µÄÊı¾İ¿âÎÄ¼ş
-	- ±©Â¶µÄÈÕÖ¾ÎÄ¼ş
-	- ±¸·İºÍ¾ÉÎÄ¼ş
+	- å…¬å¼€æŠ«éœ²çš„æ–‡ä»¶
+	- ç›®å½•åˆ—è¡¨æ¼æ´
+	- æš´éœ²çš„é…ç½®æ–‡ä»¶
+	- æš´éœ²çš„æ•°æ®åº“æ–‡ä»¶
+	- æš´éœ²çš„æ—¥å¿—æ–‡ä»¶
+	- å¤‡ä»½å’Œæ—§æ–‡ä»¶
 - info
-	- µÇÂ¼Ò³Ãæ
-	- ×¢²áÒ³Ãæ
-	- phpinfo£¨£©
+	- ç™»å½•é¡µé¢
+	- æ³¨å†Œé¡µé¢
+	- phpinfoï¼ˆï¼‰
 - error
-	- SQL´íÎó
-	- PHP´íÎó/¾¯¸æ
+	- SQLé”™è¯¯
+	- PHPé”™è¯¯/è­¦å‘Š
 - pastebin
-	- ËÑË÷Pastebin.comÍøÕ¾/Õ³ÌùÍøÕ¾
+	- æœç´¢Pastebin.comç½‘ç«™/ç²˜è´´ç½‘ç«™
 - github
-	- ËÑË÷Github.comÍøÕ¾ÒÔ¼°Gitlab.comÍøÕ¾
+	- æœç´¢Github.comç½‘ç«™ä»¥åŠGitlab.comç½‘ç«™
 - stackoverflow
-	- ËÑË÷Stackoverflow.comÍøÕ¾
+	- æœç´¢Stackoverflow.comç½‘ç«™
 
-## 0x03 Ê¹ÓÃÖ¸ÄÏ
-#### Ãô¸ĞÎÄ¼şÌ½²â
+### 0x03 ä½¿ç”¨æŒ‡å—
+#### æ•æ„Ÿæ–‡ä»¶æ¢æµ‹
 `python3 FntGoogleHack.py example.com -i `
 
-#### Ãô¸ĞĞÅÏ¢È«Ì½²â
+#### æ•æ„Ÿä¿¡æ¯å…¨æ¢æµ‹
 `python3 FntGoogleHack.py example.com -i -f -e -g -p -s`
