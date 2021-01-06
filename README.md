@@ -1,36 +1,37 @@
 ### 0x00 FNT
-**æ¸”ç½‘å·¥å…·é›†ç¬¬ä¸€ä¸ªå·¥å…·**
+**ÓæÍø¹¤¾ß¼¯µÚÒ»¸ö¹¤¾ß**
 
 ### 0x01 Google Hacking
-åŸºäºGoogleSearchçš„è°·æ­Œå‘ç°å·¥å…·
+»ùÓÚGoogleSearchµÄ¹È¸è·¢ÏÖ¹¤¾ß
 
+![image](https://github.com/austfish/FNT-GH/blob/main/images/banner.png)
 
-### 0x02 åŠŸèƒ½ä»‹ç»
-
+### 0x02 ¹¦ÄÜ½éÉÜ
+![image](https://github.com/austfish/FNT-GH/blob/main/images/run.png)
 - file
-	- å…¬å¼€æŠ«éœ²çš„æ–‡ä»¶
-	- ç›®å½•åˆ—è¡¨æ¼æ´
-	- æš´éœ²çš„é…ç½®æ–‡ä»¶
-	- æš´éœ²çš„æ•°æ®åº“æ–‡ä»¶
-	- æš´éœ²çš„æ—¥å¿—æ–‡ä»¶
-	- å¤‡ä»½å’Œæ—§æ–‡ä»¶
+	- ¹«¿ªÅûÂ¶µÄÎÄ¼ş
+	- Ä¿Â¼ÁĞ±íÂ©¶´
+	- ±©Â¶µÄÅäÖÃÎÄ¼ş
+	- ±©Â¶µÄÊı¾İ¿âÎÄ¼ş
+	- ±©Â¶µÄÈÕÖ¾ÎÄ¼ş
+	- ±¸·İºÍ¾ÉÎÄ¼ş
 - info
-	- ç™»å½•é¡µé¢
-	- æ³¨å†Œé¡µé¢
-	- phpinfoï¼ˆï¼‰
+	- µÇÂ¼Ò³Ãæ
+	- ×¢²áÒ³Ãæ
+	- phpinfo£¨£©
 - error
-	- SQLé”™è¯¯
-	- PHPé”™è¯¯/è­¦å‘Š
+	- SQL´íÎó
+	- PHP´íÎó/¾¯¸æ
 - pastebin
-	- æœç´¢Pastebin.comç½‘ç«™/ç²˜è´´ç½‘ç«™
+	- ËÑË÷Pastebin.comÍøÕ¾/Õ³ÌùÍøÕ¾
 - github
-	- æœç´¢Github.comç½‘ç«™ä»¥åŠGitlab.comç½‘ç«™
+	- ËÑË÷Github.comÍøÕ¾ÒÔ¼°Gitlab.comÍøÕ¾
 - stackoverflow
-	- æœç´¢Stackoverflow.comç½‘ç«™
+	- ËÑË÷Stackoverflow.comÍøÕ¾
 
-### 0x03 ä½¿ç”¨æŒ‡å—
-#### æ•æ„Ÿæ–‡ä»¶æ¢æµ‹
+### 0x03 Ê¹ÓÃÖ¸ÄÏ
+#### Ãô¸ĞÎÄ¼şÌ½²â
 `python3 FntGoogleHack.py example.com -i `
 
-#### æ•æ„Ÿä¿¡æ¯å…¨æ¢æµ‹
+#### Ãô¸ĞĞÅÏ¢È«Ì½²â
 `python3 FntGoogleHack.py example.com -i -f -e -g -p -s`
