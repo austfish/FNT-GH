@@ -47,6 +47,6 @@ def GoogleSearch(query):
     beta = random.choice(TLD)
     s = requests.Session()
     s.cookies.set_policy(BlockAll())
-    # print(colored(f'[+] Google {query}  ', 'green'))
+    print(colored(f'[+] Google {query}  ', 'green'))
     for gamma in search(query, tld=beta, num=10, stop=95, pause=2, user_agent=random.choice(user_agents)):
         print(colored('[+] Found > ', 'yellow') + gamma)

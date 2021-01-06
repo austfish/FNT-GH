@@ -23,18 +23,27 @@ parser.add_argument("-s", "--stackoverflow", help="ind juicy information about t
 args = parser.parse_args()
 
 if args.file:
-    from modes import file
+    from modes.file import file
+    file(args.domain)
+
 if args.info:
     from modes.info import info
     info(args.domain)
 
 if args.error:
-    from modes import error
+    from modes.error import error
+    error(args.domain)
+
 if args.github:
-    from modes import github
+    from modes.github import github
+    github(args.domain)
+
 if args.pastebin:
-    from modes import pastebin
+    from modes.pastebin import pastebin
+    pastebin(args.domain)
+
 if args.stackoverflow:
-    from modes import stackoverflow
+    from modes.stackoverflow import stackoverflow
+    stackoverflow(args.domain)
 
 print(colored('[! >] delete .google-cookie file in FNT DIR  ', 'red'))

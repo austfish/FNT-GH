@@ -13,8 +13,8 @@ def gh():
          \/           \/                           \/        \/   v1.0
 
 
-     * Fishing Net Tools-Google Hack (FNT-GH) coded by austfish
-     * please use -h to see help
+    * Fishing Net Tools-Google Hack (FNT-GH) coded by austfish
+    * please use -h to see help
     """
     print(colored(banner, 'blue'))
 
