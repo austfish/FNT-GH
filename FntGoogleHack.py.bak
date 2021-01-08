@@ -1,7 +1,7 @@
-# @name:    FNT-GoogleKack
-# @repo:    https://github.com/austfish/FNT-GH
-# @author:  austfish
-# Main-file V1.0
+# @name:    Katana-DorkScanner
+# @repo:    https://github.com/adnane-X-tebbaa/Katana
+# @author:  Adnane tebbaa (AXT)
+# Main-file V2.0
 from banner import banner
 import argparse
 from termcolor import colored
