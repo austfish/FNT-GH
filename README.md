@@ -18,9 +18,11 @@ BeautifulSoup4抓取Google，[详细介绍地址](https://www.xugj520.cn/archive
 - info      一些基本信息
 - inurl    URL存在关键字的网页
 - filetype 搜索指定文件类型
+
 ![image](https://github.com/austfish/FNT-GH/blob/main/images/banner.png)
 
 ### 0x03 功能介绍
+
 ![image](https://github.com/austfish/FNT-GH/blob/main/images/run.png)
 - file
 	- 公开披露的文件
